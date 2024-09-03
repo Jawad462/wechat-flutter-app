@@ -1,5 +1,7 @@
 # We Chat - Flutter - Firebase - Push Notification
 
+![project11](https://github.com/user-attachments/assets/0a287629-113c-466d-8c57-eadef5a1b5c6)
+
  <strong>Features👇 : </strong>
 <ul>
 <li>Show only known users or contacts
@@ -14,9 +16,6 @@
 <li>Decent UI with New Material Widgets
 <li>And Much More....
 </ul>
-
-  <br>
-  <br>
 
  <strong>Note:</strong> 
   To Use Gemini AI Chatbot Feature, You've to use Your API Key (Which you can create by Visiting Google AI Studio)
